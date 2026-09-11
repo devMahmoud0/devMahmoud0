@@ -48,17 +48,19 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=devMahmoud0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/devMahmoud0/devMahmoud0/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=devMahmoud0.devMahmoud0&"  />
 </div>
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devMahmoud0/devMahmoud0/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devMahmoud0/devMahmoud0/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/devMahmoud0/devMahmoud0/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=devMahmoud0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&user=devMahmoud0" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/devMahmoud0/devMahmoud0/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/devMahmoud0/devMahmoud0/snake-output/snake.svg" alt="Snake animation" />
 
 ###
